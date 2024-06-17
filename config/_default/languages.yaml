@@ -9,8 +9,8 @@ en:
   #contentDir: content/en
 #
 # Latter test
-# pt:
-#   languageCode: pt-br
+pt:
+  languageCode: pt-br
 #
 #
 # Uncomment the lines below to configure your website in a second language.
