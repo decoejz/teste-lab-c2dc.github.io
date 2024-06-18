@@ -5,7 +5,7 @@ title: "FSAnalysis: a feature selection and analysis mechanism considering balan
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - prof_lourenço
+  - Lourenço Pereira
   - Nicole Do Vale Dalarmelina
 
 # Author notes (optional)
